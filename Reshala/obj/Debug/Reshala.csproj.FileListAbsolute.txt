@@ -1,0 +1,8 @@
+c:\users\dshumilov\documents\visual studio 2015\Projects\AliveTemplates\Reshala\bin\Debug\Reshala.exe.config
+C:\Users\dshumilov\documents\visual studio 2015\Projects\AliveTemplates\Reshala\obj\Debug\Reshala.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\AliveTemplates\Reshala\bin\Debug\Reshala.exe.config
+C:\Workspace\Git\AliveTemplates\Reshala\obj\Debug\Reshala.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\AliveTemplates\Reshala\bin\Debug\Reshala.exe
+C:\Workspace\Git\AliveTemplates\Reshala\bin\Debug\Reshala.pdb
+C:\Workspace\Git\AliveTemplates\Reshala\obj\Debug\Reshala.exe
+C:\Workspace\Git\AliveTemplates\Reshala\obj\Debug\Reshala.pdb

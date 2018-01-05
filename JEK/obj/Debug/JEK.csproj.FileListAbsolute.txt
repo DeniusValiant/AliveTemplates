@@ -1,0 +1,10 @@
+C:\Users\dshumilov\documents\visual studio 2015\Projects\AliveTemplates\JEK\bin\Debug\JEK.exe.config
+C:\Users\dshumilov\documents\visual studio 2015\Projects\AliveTemplates\JEK\bin\Debug\JEK.exe
+C:\Users\dshumilov\documents\visual studio 2015\Projects\AliveTemplates\JEK\bin\Debug\JEK.pdb
+C:\Users\dshumilov\documents\visual studio 2015\Projects\AliveTemplates\JEK\obj\Debug\JEK.exe
+C:\Users\dshumilov\documents\visual studio 2015\Projects\AliveTemplates\JEK\obj\Debug\JEK.pdb
+C:\Workspace\Git\AliveTemplates\JEK\bin\Debug\JEK.exe.config
+C:\Workspace\Git\AliveTemplates\JEK\bin\Debug\JEK.exe
+C:\Workspace\Git\AliveTemplates\JEK\bin\Debug\JEK.pdb
+C:\Workspace\Git\AliveTemplates\JEK\obj\Debug\JEK.exe
+C:\Workspace\Git\AliveTemplates\JEK\obj\Debug\JEK.pdb
